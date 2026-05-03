@@ -1,6 +1,6 @@
 {
-      "is_active": true,
-      "latest_version": 2,
-      "update_url": "https://uot2.github.io/HubSave-App/",
-      "message": "Welcome to HubSave! Your app is up to date."
+        "is_active": true,
+        "latest_version": 2,
+        "update_url": "https://hubsave-app.github.io/",
+        "message": "Welcome to HubSave! Your app is up to date."
 }
