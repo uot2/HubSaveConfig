@@ -1,5 +1,5 @@
 {
-        "is_active": false,
+        "is_active": true,
         "latest_version":3,
         "update_url": "https://hubsave-app.github.io/",
         "message": "Welcome to HubSave! Your app is up to date."
