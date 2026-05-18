@@ -1,6 +1,6 @@
 {
         "is_active": true,
-        "latest_version":3,
+        "latest_version":4,
         "update_url": "https://hubsave-app.github.io/",
-        "message": "Welcome to HubSave! Your app is up to date."
+        "message": "There is a new update; please download the latest version. هناك تحديث جديد يرجى تحميل احدث نسخه ."
 }
